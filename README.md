@@ -7,4 +7,5 @@
     * y = yank
     * + means copy to clipboard 
 * `5dd` to delete 5 (optional) lines 
+* `shift+ins` to paste (forget about `cmd+v` & `ctrl+v` :)))))
 * 
