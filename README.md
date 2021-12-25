@@ -1,4 +1,10 @@
 # Vim commands
-* `i` insert text by typing
-* `q!` quit without saving
-* `wq` write and quit
+* `i` to insert text by typing
+* `q!` to quit without saving
+* `wq` to write and quit
+* `:%y+` to yank all lines
+    * % next command will work on all lines
+    * y = yank
+    * + means copy to clipboard 
+* `5dd` to delete 5 (optional) lines 
+* 
