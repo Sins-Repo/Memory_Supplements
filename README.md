@@ -13,3 +13,19 @@
 * `u` to undo
 * `ctrl+r` to redo
 * For more commands, [here](https://vim.rtorr.com/)
+
+<br/>
+
+# htdocs in WAMP stack 
+* Where to find the code
+   ```
+   C:\Users\Desktop\XAMPP\htdocs\ImmaFolder
+   ```
+* Type the following line in the browser
+   ```
+   localhost/ImmaFolder
+   ```
+   Given that there is `index.php` in the ImmaFolder directory, else you need to type the following line
+   ```
+   localhost/ImmaFolder/main_page.php
+   ```
