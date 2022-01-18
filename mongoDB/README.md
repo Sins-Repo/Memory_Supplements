@@ -28,25 +28,25 @@ Let’s open VS Code to install the MongoDB extension. Select the first option -
 
 <img src="img/mongo_vscode.PNG" >
 
-<br/>
+<br/><br/>
 
 After the installation, click on ‘Add Connection’ and you will be seeing the screen below <br/>
 
 <img src="img/interface.PNG" >
 
-<br/>
+<br/><br/>
 
 Select Open form under the Advanced Connection Settings. You can make your own configuration or stay as default <br/>
 
 <img src="img/config.PNG" >
 
-<br/>
+<br/><br/>
 
 Now, MongoDB is connected in your VS Code! Under CONNECTIONS, Click on the plus sign beside the localhost:27017 and you will be prompted to enter the new database name as shown in the figure. You will need to have at least 1 document in each database. Therefore, you will be asked to enter a new document name once you hit ‘Enter’. There you go. You can start to explore the database <br/>
 
 <img src="img/database.PNG" >
 
-<br/>
+<br/><br/>
 
 Last but not least, you will need to stop the service every time you have done using MongoDB 
 
