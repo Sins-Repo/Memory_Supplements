@@ -34,3 +34,4 @@
 <br/>
 
 # MongoDB
+* [Installation on VSCode (MacOS)](https://github.com/Sins-Repo/Memory_Supplements/tree/main/mongoDB)
